@@ -2,4 +2,6 @@
 
 UWA網址___https://lab.uwa4d.com/lab/5b5d1a21d7f10a201fea992a?fbclid=IwAR13xI8f7j9ZyGydmVgv09eZitqABs4JbVuGE4uJofMwN2sW1C9oTvvW8Xo
 
-Github網址___https://github.com/z1125411235/UWA_FlipbookSurfaceShader
+本人Github網址___https://github.com/z1125411235/UWA_FlipbookSurfaceShader
+
+官方Github網址___https://github.com/thnewlands/unity-surfaceshader-flipbook
